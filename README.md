@@ -4,15 +4,12 @@
 
 ### github
 
-[https://github.com/fuchengwei/deploy-cli-service](https://github.com/fuchengwei/deploy-cli-service)
+[https://github.com/liuzhenmei/deploy-cli-service](https://github.com/liuzhenmei/deploy-cli-service)
 
 ### npm
 
-[https://www.npmjs.com/package/deploy-cli-service](https://www.npmjs.com/package/deploy-cli-service)
+[https://www.npmjs.com/package/deploy-cli-service](https://www.npmjs.com/package/deploy-cli-service-zm)
 
-#### 更新日志
-
-[https://github.com/fuchengwei/deploy-cli-service/wiki/更新日志](https://github.com/fuchengwei/deploy-cli-service/wiki/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
 
 ## 1 安装
 
@@ -171,4 +168,3 @@ deploy-cli-service deploy # 或者使用 deploy-cli-service d
 npm run deploy:dev
 ```
 
-最后如果大家觉得还不错挺好用的话，麻烦给个 Star 😜😜😜。
