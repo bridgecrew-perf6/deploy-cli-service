@@ -1,5 +1,5 @@
 {
-  "name": "deploy-cli-service-zm",
+  "name": "deploy-cli-service2",
   "version": "1.4.0",
   "description": "前端一键自动化部署脚手架服务",
   "main": "lib/service.js",
